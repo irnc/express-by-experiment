@@ -1,0 +1,24 @@
+{
+  "name": "express-by-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irnc/express-by-experiment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irnc/express-by-experiment/issues"
+  },
+  "homepage": "https://github.com/irnc/express-by-experiment#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
